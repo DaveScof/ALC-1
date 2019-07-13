@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC 1</string>
+
+    <!-- Labels -->
+    <string name="main_label">ALC 4 Phase 1</string>
+    <string name="about_label">About ALC</string>
+    <string name="my_profile_label">My Profile</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+
+
+    <!-- My Profile -->
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Ethiopia</string>
+    <string name="email">Email: dawit@qenetech.com</string>
+    <string name="phone">Phone Number: 251910184144</string>
+    <string name="slack_username">Slack Username: @Dawit Abraham </string>
+    <string name="photo_of_dawit">Photo of Dawit</string>
+    <string name="dawit_abraham">Dawit Abraham</string>
+
+</resources>
